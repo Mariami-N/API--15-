@@ -1,0 +1,58 @@
+.container{
+    width: 100vw;
+    height: 100vh;
+    background-color: #202733;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.box{
+    Width: 540px;
+    Height: 332px;
+    border-radius: 15px;
+    background-color: #313A48;
+}
+h5{
+    Width: 200px;
+    Height: 25px;
+    margin-top: 48px;
+    margin-left: 160px;
+    margin-bottom: 24px;
+    font-family: 'Manrope';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 13px;
+    line-height: 18px;
+    text-align: center;
+    letter-spacing: 4.08571px;
+    color: #53FFAA;
+    
+}
+.advicebox{
+    Width: 444px;
+    Height: 114px;
+    margin-left: 48px;
+    margin-bottom: 48px;
+}
+img{
+    Width: 444px;
+    Height: 16px;
+    margin-bottom: 20px;
+    margin-left: 48px;
+}
+.btn{
+    Width: 64px;
+    Height: 64px;
+    margin-left: 238px;
+}
+p{
+    font-family: 'Manrope';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 28px;
+    line-height: 38px;
+    text-align: center;
+    letter-spacing: -0.3px;
+    color: #CEE3E9;
+
+}
