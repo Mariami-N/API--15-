@@ -5,7 +5,7 @@ let btn=document.querySelector(".btn");
 let h5=document.querySelector("h5");
 let paragraph=document.querySelector("p");
 
- 
+
 
     btn.addEventListener("click", () => {
     let randomNum = Math.floor(Math.random() * 300);
